@@ -23,7 +23,8 @@ Titulo 3 ### Titulo 3
 
 ## Código
 ```bash
-git status```
+git status
+```
 
 ## Enlace
 [Wikipedia GitHub](https://es.wikipedia.org/wiki/GitHub)
